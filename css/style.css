@@ -203,3 +203,11 @@ img {
     flex-direction: column;
 
 }
+
+
+/* Paginas internas */
+.contenedor-nosotros{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 2rem;
+}
